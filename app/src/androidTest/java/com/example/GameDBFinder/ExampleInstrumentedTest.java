@@ -1,4 +1,4 @@
-package com.example.gamefinder;
+package com.example.GameDBFinder;
 
 import android.content.Context;
 
